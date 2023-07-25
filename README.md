@@ -28,7 +28,7 @@
 
 # 遥控器键位
 
-KEY_PRESS_OFFSET_xx
+KEY_PRESSED_OFFSET_xx
 
 shoot_control.press_l/r
 
